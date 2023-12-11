@@ -4,23 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
+-   [Screenshots](#screenshot)
+-   [Built with](#built-with)
 -   [Author](#author)
 
-## Overview
-
-### Screenshot
+## Screenshots
 
 ![Desktop](./screenshots/desktop.png)
 ![Mobile](./screenshots/mobile.png)
 
-### Links
-
-## My process
-
-### Built with
+## Built with
 
 -   Semantic HTML5 markup
 -   CSS custom properties
@@ -28,7 +21,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
--   Website - [Michael Mohr](http://www.micmohr.de)
 -   Frontend Mentor - [@miqlangelo](https://www.frontendmentor.io/profile/miqlangelo)
 -   LinkedIn - [miqlangelo](https://www.linkedin.com/in/miqlangelo/)
--   Github - [miqlangelo](https://github.com/miqlangelo)
